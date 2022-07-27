@@ -3,7 +3,7 @@
 ;; Copyright (C) 2014-2019 Quang Linh LE
 
 ;; Author: Quang Linh LE <linktohack@gmail.com>
-;; URL: http://github.com/linktohack/ox-latex-subfigure
+;; URL: http://github.com/RomeoV/ox-latex-subfigure
 ;; Version: 0.0.2
 ;; Keywords: convenience ox latex subfigure org org-mode
 ;; Package-Requires: ((emacs "24.4") (org "9.0"))
