@@ -66,7 +66,7 @@ LIMIT is limit."
   (let ((width ".9\\textwidth")
         (align "b")
         (option "")
-        (centering "")
+        (centering "\\centering\n")
         (caption "")
         (multicolumn "")
         fig cap)
